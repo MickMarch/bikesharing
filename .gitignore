@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Cache
+.DS_Store
+
 # Distribution / packaging
 .Python
 resources/
