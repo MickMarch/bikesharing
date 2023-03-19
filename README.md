@@ -18,7 +18,7 @@ All of the proceeding screenshots are taken from my Tableau Public visualization
 
 ### Customer Types
 
-![overview](img/overview.png)<br>
+![overview](img/overview.png)
 Grouping the users into 2 different categories of `Customer Type` and `Gender` shows:
 - **Subscribers** are the largest group of users by `Customer Type`
 - **Males** are the largest group of users by `Gender`<br><br>
@@ -26,39 +26,39 @@ Grouping the users into 2 different categories of `Customer Type` and `Gender` s
 
 ### Popular Citi Bike Station Locations
 
-![starting_location](img/starting_loc_bubble.png)<br>
+![starting_location](img/starting_loc_bubble.png)
 
 This map shows all the starting locations of bike trips, with the bubble size representing the amount.<br><br>
 
-![ending_location](img/ending_loc_bubble.png)<br>
+![ending_location](img/ending_loc_bubble.png)
 
 This map shows all the ending locations of bike trips, with the bubble size representing the amount.<br><br>
 
 
 ### Length of Trips
 
-![tripduration](img/tripduration.png)<br>
+![tripduration](img/tripduration.png)
 
 This chart shows that 5 minutes was the single most common length of bike trip duration.<br><br>
 
-![tripduration_by_gender](img/tripduration_by_gender.png)<br>
+![tripduration_by_gender](img/tripduration_by_gender.png)
 
 This chart breaks down the trip duration into each gender.<br><br>
 ### Popular Times of Usage
 
-![heatmap_usage_times](img/heatmap_usage_times.png)<br>
+![heatmap_usage_times](img/heatmap_usage_times.png)
 
 This heatmap shows at what hour in each day of the week sees the most usage.<br><br>
 
-![heatmap_usage_times_female](img/heatmap_usage_times_female.png)<br>
+![heatmap_usage_times_female](img/heatmap_usage_times_female.png)
 
 This heatmap shows at what hour in each day of the week sees the most usage by females.<br><br>
 
-![heatmap_usage_times_male](img/heatmap_usage_times_male.png)<br>
+![heatmap_usage_times_male](img/heatmap_usage_times_male.png)
 
 This heatmap shows at what hour in each day of the week sees the most usage by males.<br><br>
 
-![heatmap_usage_days](img/heatmap_usage_days.png)<br>
+![heatmap_usage_days](img/heatmap_usage_days.png)
 
 - The first heatmap shows what days in a week see the most usage, and is grouped by `Customer Type`.
 - The second heatmap shows what days in a week see the most usage, and is grouped by `Customer Type` and `Gender`<br><br>
@@ -77,8 +77,8 @@ This heatmap shows at what hour in each day of the week sees the most usage by m
 
 ### Additional Visualizations
 
-![gender_usage_by_birth_year](img/gender_usage_by_birth_year.png)<br>
+![gender_usage_by_birth_year](img/gender_usage_by_birth_year.png)
 This visualization breaks down the usage of each gender by birth year. The default birth year for a customer is `1969`. For this reason, the year `1969` cannot be considered an accurate data point.<br><br>
 
-![starting_ending_loc_pair_count](img/starting_ending_loc_pair_count.png)<br>
+![starting_ending_loc_pair_count](img/starting_ending_loc_pair_count.png)
 This one was fun. I wanted to see if there were any repeat combinations of `Starting Station` to `Ending Station` pairings. I was surprised to find there were actually quite a few. This visualization is also very beautiful. If you haven't checked out the Tableau Public story yet, this slide is fun and interactive.<br><br>
